@@ -1,2 +1,3 @@
-YouTube Clone [image](https://github.com/AitijhyaCoded/YouTubeClone/assets/145751411/e021e5ff-af6d-4bf3-837d-eddceafcf421)
+YouTube Clone <img href="![image](https://github.com/AitijhyaCoded/YouTubeClone/assets/145751411/cded67d9-fb62-48f0-b9dd-4f880d539687)">
+
 <br />This is a YouTube clone project built only using HTML and CSS. It showcases a similar version of the popular video sharing platform www.youtube.com, demonstrating my skills in front-end development. The clone features a responsive design, video player, and basic UI elements, all crafted with clean and semantic code. <br />Check out the HTML code on the index.html file, refer to the other files for images and CSS references(styles-youtube folder). <br />The link for the website is: https://aitijhyacoded.github.io/YouTubeClone/
